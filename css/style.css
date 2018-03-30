@@ -86,7 +86,7 @@ img, video, audio {
 .wrapper {
   width: 1080px;
   margin: 0 auto;
-  background: #eee;
+  /*background: #eee;*/
 }
 
 .col-1 {
